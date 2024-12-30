@@ -1,4 +1,4 @@
-BonOS 1.2
+BonOS 1.2 and BonOS 1.2+
 
 Disclaimer
 
